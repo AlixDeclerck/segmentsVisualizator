@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.Cursor?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.BorderPane?>
+<AnchorPane prefHeight="500" prefWidth="818" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="be.umons.BSPHI.userInterfaces.sceneView.SceneViewController">
+    <BorderPane fx:id="sceneViewZone" onMouseClicked="#onClick" prefHeight="500.0" prefWidth="818.0">
+        <cursor>
+            <Cursor fx:constant="DEFAULT" />
+        </cursor>
+    </BorderPane>
+</AnchorPane>
+
+
