@@ -1,2 +1,2 @@
 # segmentsVisualizator
-Segment visualization using the painter algorithm
+project by pair using the painter algorithm to do segments visualization
